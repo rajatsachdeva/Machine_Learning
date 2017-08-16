@@ -1,0 +1,16 @@
+quandl
+sckitlearn
+pandas
+>>> import sklearn
+>>> sklearn.__version__
+'0.18.1'
+>>> import pandas
+>>> pandas.__version__
+'0.19.2'
+>>> quandl.version
+<module 'quandl.version' from '/Users/rohanrajat/anaconda/lib/python3.6/site-packages/quandl/version.py'>
+>>> 
+>>> quandl.version.VERSION
+'3.1.0'
+
+API key: nvFc3vHp3JByAiKPPeGX
