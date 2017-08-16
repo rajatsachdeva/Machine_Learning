@@ -1,0 +1,4 @@
+quandl=='3.1.0'
+sklearn=='0.18.1'
+pandas=='0.19.2'
+numpy==
